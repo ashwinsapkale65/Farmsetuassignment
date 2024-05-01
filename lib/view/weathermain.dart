@@ -66,7 +66,7 @@ class _WeathermainState extends State<Weathermain> {
             ),
             SizedBox(height: 10),
             Container(
-              width: MediaQuery.of(context).size.width * 0.8,
+              width: MediaQuery.of(context).size.width * 0.9,
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(15.0),
                 color: Color.fromARGB(255, 156, 45, 220),
