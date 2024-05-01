@@ -5,11 +5,7 @@ Screenshots Of APP
 
 Basic UI OF APP 
 
-
-
-<img src="https://github.com/ashwinsapkale65/Farmsetuassignment/assets/107023935/5266724d-af56-4e9f-870d-3edc095593f4" width="300" height="300">
-
-5 Days Forcast
+![Screenshot_2024-05-01-16-47-03-701_com example farm_setu](https://github.com/ashwinsapkale65/Farmsetuassignment/assets/107023935/9e3c0849-1af6-43be-b201-6dc0cc2bdfd9)
 
 
 ![20240501_170838](https://github.com/ashwinsapkale65/Farmsetuassignment/assets/107023935/504f91ef-3a4d-482b-b7d3-e5f33c4bfad2)
